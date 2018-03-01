@@ -1,0 +1,22 @@
+{
+  "name": "code_thu",
+  "version": "1.0.0",
+  "description": "pupeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhnguyenvn/code_thu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhnguyenvn/code_thu/issues"
+  },
+  "homepage": "https://github.com/trinhnguyenvn/code_thu#readme",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  }
+}
